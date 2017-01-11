@@ -18,9 +18,6 @@ public class HelloWorld {
 			System.out.println("Hello World once again with j");
 		}
 
-		for (k = 0; k < 5; k++) {
-			System.out.println("Hello World, once again with k");
-		}
 
 	}
 
